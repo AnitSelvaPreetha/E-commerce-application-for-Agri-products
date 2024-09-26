@@ -1,0 +1,36 @@
+/* CSS for Waste Supplier Page */
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+  }
+  
+  .nav-link:hover {
+    background-color: #555;
+  }
+  
+  .add-waste-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .add-waste-button:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
